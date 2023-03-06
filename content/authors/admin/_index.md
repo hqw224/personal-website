@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cornell University
+    url: https://www.cornell.edu/
 education:
   courses:
     - course: PhD in Economics
