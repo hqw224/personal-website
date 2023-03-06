@@ -5,8 +5,8 @@ avatar_filename: wechat-image_20230305214311.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - LaborEconomics
-  - AppliedEconometrics
+  - Labor Economics
+  - Applied Econometrics
 social:
   - icon: envelope
     icon_pack: fas
