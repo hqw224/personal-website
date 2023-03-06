@@ -1,6 +1,6 @@
 ---
-title: Alice Wu 吳恩達
-role: Professor of Artificial Intelligence
+title: Qiwei He 何其蔚
+role: Phd Candidate in Economics
 avatar_filename: wechat-image_20230305214311.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
