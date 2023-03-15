@@ -7,24 +7,16 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: CV
+    url: uploads/Resume(Qiwei).pdf
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Research
+    url: '#Research'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Teaching
+    url: '#teaching'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Miscellaneous
+    url: '#others'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
